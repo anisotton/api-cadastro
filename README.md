@@ -71,6 +71,8 @@ npm install
 php artisan key:generate
 ```
 
-
 ### URL de acesso
 [http://localhost:8000](http://localhost:8000)
+
+### Postman collection
+[Download](https://github.com/anisotton/tray/edit/master/Tray.postman_collection.json)
