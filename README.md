@@ -1,6 +1,6 @@
 # Teste tecnico Tray
 
-API para cadastro de vendedore e calculo de comissão de venda
+API para cadastro de vendedores e calculo de comissão de venda
 
 
 ## Tecnologias utilizada
