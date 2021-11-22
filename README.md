@@ -57,9 +57,13 @@ docker-compose up -d
 docker-compose exec app bash
 ```
 
+
 ### Instalar as dependências do projeto
 ```sh
 composer install
+```
+```sh
+npm install
 ```
 
 ### Gerar a key do projeto Laravel
@@ -67,6 +71,8 @@ composer install
 php artisan key:generate
 ```
 
-
 ### URL de acesso
 [http://localhost:8000](http://localhost:8000)
+
+### Postman collection
+[Download](https://github.com/anisotton/tray/edit/master/Tray.postman_collection.json)
