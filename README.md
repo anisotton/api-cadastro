@@ -57,9 +57,13 @@ docker-compose up -d
 docker-compose exec app bash
 ```
 
+
 ### Instalar as dependências do projeto
 ```sh
 composer install
+```
+```sh
+npm install
 ```
 
 ### Gerar a key do projeto Laravel
