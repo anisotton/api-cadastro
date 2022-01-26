@@ -1,4 +1,4 @@
-# Teste tecnico Tray
+# API
 
 API para cadastro de vendedores e calculo de comissão de venda
 
